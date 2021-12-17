@@ -1,0 +1,119 @@
+/*Author: Blessy 
+Date: 17/12/2021;*/
+
+*{
+
+	padding: 0;
+	margin: 0;
+}
+
+/*front*/
+
+.front
+{
+	background-color: #333;
+	
+	padding: 100px;
+	color: #fff;
+	text-align: center;
+	font-size:22px ;
+
+
+}
+.front h1 {
+    
+	margin-bottom: 30px;
+}
+.front p{
+margin-bottom: 50px;
+}
+
+.second-phase h1{
+	margin-bottom: 30px;
+}
+.third1 h2
+{
+	margin-bottom: 30px;
+}
+
+.front a{  
+
+           border: solid 1px;
+           border-color: #00f;
+           padding: 20px;
+           text-decoration: none;
+          bottom: 30px;
+}
+.front a:hover {
+
+            
+            color: #fff;
+            background-color: #00f;
+        }
+.second-phase
+{
+	padding: 100px;
+	text-align: center;
+	font-size: 20px;
+	line-height: 30px;
+	background-color: #fff;
+}
+.third-phase
+{
+  
+   
+   display: flex;
+   background-color:#333;
+   text-align: justify;
+}
+.third1{
+	         
+            border: 1px solid #333;
+            border-radius: 15px;
+            background-color: #fff;
+            margin: 30px;
+           padding: 30px;
+            text-align: center;
+}
+
+.fourth
+{
+	
+	display: flex;
+text-align: center;
+ 
+
+}
+.fourth1
+{
+	background-color: #0d6efd;
+	
+	font-size: 20px;
+	height: 60vh;
+
+	
+
+}
+.fourth2
+{
+	
+	background-color: #333;
+	font-size: 20px;
+	height: 60vh;
+	color: #fff;
+
+}
+.fourth1 h1{
+	margin-top: 100px;
+}
+.fourth2 h1{
+	margin-top: 100px;
+}
+.fourth1 p{
+ margin bottom: 20px;
+}
+.fourth2 p{
+	margin-bottom: 20px;
+}
+
+            
